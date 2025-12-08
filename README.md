@@ -1,7 +1,7 @@
 # Everforest Micro 🌲
 Everforest for the Micro text editor.
 
-https://github.com/zyedidia/micro
+https://micro-editor.github.io/
 
 https://github.com/sainnhe/everforest
 
