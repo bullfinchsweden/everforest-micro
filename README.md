@@ -5,6 +5,8 @@ Everforest for the Micro text editor.
 
 * [Everforest color scheme](https://github.com/sainnhe/everforest)
 
+* [Everforest website](https://everforest.vercel.app/)
+
 * [Everforest for Firefox](https://addons.mozilla.org/en-US/firefox/collections/18694308/Everforest-Themes/)
 
 Copy "everforest.micro" to ~/.config/micro/colorschemes (or create a new folder named colorschemes if non-existing).
