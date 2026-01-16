@@ -9,7 +9,7 @@ Everforest for the Micro text editor.
 
 * [Everforest for Firefox](https://addons.mozilla.org/en-US/firefox/collections/18694308/Everforest-Themes/)
 
-Put file in ~/.config/micro/colorschemes (create a new folder named colorschemes if non-existing).
+Put file in ~/.config/micro/colorschemes/ (create a new folder named colorschemes if non-existing).
 
 Add "export MICRO_TRUECOLOR=1" (without quotation marks) to the shell rc file (.zshrc).
 
