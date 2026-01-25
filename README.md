@@ -13,10 +13,6 @@ Everforest for the Micro text editor.
 
 Place file in ~/.config/micro/colorschemes/ (create a new folder named colorschemes if non-existing).
 
-Add "export MICRO_TRUECOLOR=1" (without quotation marks) to the shell rc file (.zshrc).
-
-Restart the Terminal.
-
 Open the Micro text editor, press control+e and type "set colorscheme everforest" (without quotation marks) and press enter.
 
 Done.
