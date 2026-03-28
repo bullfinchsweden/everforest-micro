@@ -1,4 +1,4 @@
-# Everforest Micro 🌲
+# Everforest Micro 🌲🗒️
 Everforest for the Micro text editor.
 
 * [Micro text editor](https://micro-editor.github.io/)
