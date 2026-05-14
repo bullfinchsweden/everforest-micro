@@ -1,7 +1,7 @@
 # Everforest Micro
 Everforest for the Micro text editor.
 
-<img width="1510" height="510" alt="EverforestText" src="https://github.com/user-attachments/assets/b9a28d85-9b7c-4526-adab-785f2c048046" />
+<img width="750" height="253" alt="EverforestText" src="https://github.com/user-attachments/assets/56f4b5f4-1f92-4806-9844-c2ceae48a173" />
 
 * [Micro text editor](https://micro-editor.github.io/)
 
