@@ -1,6 +1,8 @@
 # Everforest Micro
 Everforest for the Micro text editor.
 
+<img width="562" height="350" alt="Branches" src="https://github.com/user-attachments/assets/ce53b182-010e-4d4a-ad44-b2ade11fcd46" /><br/>
+
 * [Micro text editor](https://micro-editor.github.io/)
 
 * [Everforest color scheme](https://github.com/sainnhe/everforest)
