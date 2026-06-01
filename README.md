@@ -9,9 +9,7 @@ Everforest for the Micro text editor.
 
 * [Everforest website](https://everforest.vercel.app/)
 
-* [Everforest for Starship](https://github.com/martelo11/starship-everforest-themes)
-
-* [Everforest for Firefox](https://addons.mozilla.org/sv-SE/firefox/collections/18694308/Everforest-Themes/)<br/>
+* [Everforest for Starship](https://github.com/martelo11/starship-everforest-themes)<br/>
 
 Place file in ~/.config/micro/colorschemes/ (create a new folder named colorschemes if non-existing).
 
