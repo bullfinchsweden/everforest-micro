@@ -5,7 +5,7 @@ Everforest for the Micro text editor.
 
 * [Micro text editor](https://micro-editor.github.io/)
 
-* [Everforest color scheme](https://github.com/sainnhe/everforest)
+* [Everforest color palette](https://github.com/sainnhe/everforest)
 
 * [Everforest website](https://everforest.vercel.app/)
 
