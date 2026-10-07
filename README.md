@@ -11,7 +11,7 @@ Everforest for the Micro text editor.
 
 * [Everforest for Starship](https://github.com/martelo11/starship-everforest-themes)<br/>
 
-<img src="Images/Everforest.jpg" width="754" height="528" /><br/>
+<img src="Images/Everforest.jpg" width="768" height="320" /><br/>
 
 Place file in ~/.config/micro/colorschemes/ (create a new folder named colorschemes if non-existing).
 
