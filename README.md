@@ -3,7 +3,7 @@ Everforest for the Micro text editor.
 
 <img src="Images/Micro.jpg"><br/>
 
-<img src="Images/Everforest.jpg" width="754" height="528" />
+<img src="Images/Everforest.jpg" width="754" height="528" /><br/>
 
 * [Micro text editor](https://micro-editor.github.io/)
 
