@@ -1,7 +1,7 @@
 # Everforest Micro
 Everforest for the Micro text editor.
 
-<img src="Images/PineTree.png"><br/>
+<img src="Images/Micro.jpg"><br/>
 
 * [Micro text editor](https://micro-editor.github.io/)
 
