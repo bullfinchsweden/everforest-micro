@@ -3,8 +3,6 @@ Everforest for the Micro text editor.
 
 <img src="Images/Micro.jpg"><br/>
 
-<img src="Images/Everforest.jpg" width="754" height="528" /><br/>
-
 * [Micro text editor](https://micro-editor.github.io/)
 
 * [Everforest color palette](https://github.com/sainnhe/everforest)
@@ -12,6 +10,8 @@ Everforest for the Micro text editor.
 * [Everforest website](https://everforest.vercel.app/)
 
 * [Everforest for Starship](https://github.com/martelo11/starship-everforest-themes)<br/>
+
+<img src="Images/Everforest.jpg" width="754" height="528" /><br/>
 
 Place file in ~/.config/micro/colorschemes/ (create a new folder named colorschemes if non-existing).
 
