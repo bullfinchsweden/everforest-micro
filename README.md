@@ -1,4 +1,4 @@
-# Everforest Micro
+# Everforest Micro 🌲
 Everforest for the Micro text editor.
 
 <img src="Images/Micro.jpg"><br/>
